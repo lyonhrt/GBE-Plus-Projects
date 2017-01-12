@@ -1,4 +1,4 @@
-#README 
+#README set CGFX to 6x to use this pack, still wip
 
 ['Load\lyonhrt\marioland/BG/pipe1.bmp':pipe1:0]
 [1Ir1JA1JA1JA1JA1Ir9KA9KA:pipe1_0:10:0x9700:0]
