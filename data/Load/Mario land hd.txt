@@ -1,4 +1,4 @@
-#README still early stages
+#README still early stages set CGFX to 6x 
 
 ['Load\lyonhrt\marioland\BG\pipe1.bmp':pipe1:0]
 [1Ir1JA1JA1JA1JA1Ir9KA9KA:pipe1_0:10:0x9700:0]
