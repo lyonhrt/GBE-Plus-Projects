@@ -1,6 +1,6 @@
-#README still early stages set CGFX to 6x 
+#README 
 
-['Load\lyonhrt\marioland\BG\pipe1.bmp':pipe1:0]
+['Load\lyonhrt\marioland/BG/pipe1.bmp':pipe1:0]
 [1Ir1JA1JA1JA1JA1Ir9KA9KA:pipe1_0:10:0x9700:0]
 [1Ir2fr2fr2fr2fr1Ir0bW0bW:pipe1_1:10:0x9710:0]
 [9KA9KA9KA9KAdLr9KA9KA9KA:pipe1_2:10:0x9720:0]
@@ -24,6 +24,7 @@
 
 #hitable block
 [9Gq1JD1Jv1J71J71Jz1Ir9Gq:'Load\lyonhrt\marioland\BG\9Gq1JD1Jv1J71J71Jz1Ir9Gq.bmp':10:0:0]
+[9EG1Ln1LL1LT1LT1Lj1KH9EG:'Load\lyonhrt\marioland\OBJ\9EG1Ln1LL1LT1LT1Lj1KH9EG.bmp':1:8820:0]
 
 #coin
 [dPs9yw0FC2FK2FK1FS9ywdPs:'Load\lyonhrt\marioland\BG\dPs9yw0FC2FK2FK1FS9ywdPs.bmp':10:0:0]
@@ -89,4 +90,14 @@
 
 #ground
 [1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load\lyonhrt\marioland\BG\1IrejA1Ir1Ir1Ir1LI1KA1LR.bmp':10:9600:0]
+[1LA1LA1Iregr1Iregr1Ir1Ir:'Load\lyonhrt\marioland\BG\1LA1LA1Iregr1Iregr1Ir1Ir.bmp':10:9610:0]
+[1LA1LA1LA1LA1LA1LA1LA1LA:'Load\lyonhrt\marioland\BG\1LA1LA1LA1LA1LA1LA1LA1LA.bmp':10:8E80:0]
 
+#tree
+[fzUcr6aKHa+LfnRfnRenBenB:'Load\lyonhrt\marioland\BG\fzUcr6aKHa+LfnRfnRenBenB.bmp':10:0:0]
+[9ik6NI20wc30fjQfjQejAejA:'Load\lyonhrt\marioland\BG\9ik6NI20wc30fjQfjQejAejA.bmp':10:0:0]
+[enBenBenBenBenBenBenBenB:'Load\lyonhrt\marioland\BG\trunk.bmp':10:9310:0]
+
+#sky
+[1LA1LA1LA1LA1LA1LA1LA1LA:'Load\lyonhrt\marioland\BG\sky.bmp':10:9530:0]
+[1LAejA1LAejA1LAejA1LAejA:'Load\lyonhrt\marioland\BG\1LAejA1LAejA1LAejA1LAejA.bmp':10:9400:0]
