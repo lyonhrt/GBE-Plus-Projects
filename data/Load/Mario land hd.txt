@@ -1,0 +1,92 @@
+#README still early stages
+
+['Load\lyonhrt\mario land/BG/pipe1.bmp':pipe1:0]
+[1Ir1JA1JA1JA1JA1Ir9KA9KA:pipe1_0:10:0x9700:0]
+[1Ir2fr2fr2fr2fr1Ir0bW0bW:pipe1_1:10:0x9710:0]
+[9KA9KA9KA9KAdLr9KA9KA9KA:pipe1_2:10:0x9720:0]
+[0bW0bW0bW0bW1wo0bW0bW0bW:pipe1_3:10:0x9730:0]
+
+['Load\lyonhrt\mario land\BG\pipe2.bmp':pipe2:0]
+[1Ap1Jy1Jw1Jw1Jw1Jw1Jw1Jw:pipe2_0:10:0:0]
+[1cj1LI1LI1LI1LI1LI1LI1LI:pipe2_1:10:0:0]
+[1IA1K41Lk1LQ1LX1LY1LY1LY:pipe2_2:10:0:0]
+[1Jw1Jw1Jw6co60r1wr1Ir1Ap:pipe2_3:10:0:0]
+[1LI1LI1LI1LIeMreMr1Ir1cj:pipe2_4:10:0:0]
+[1LY1LY1LY1LYdIr9Ik1I41IA:pipe2_5:10:0:0]
+
+#question block
+[9Gq7RZ4516BF7RZ6lB7RZ9Gq:'Load\lyonhrt\mario land\BG\9Gq7RZ4516BF7RZ6lB7RZ9Gq.bmp':10:0:0]
+[9EG7Td47N6Dp7Td6nl7Td9EG:'Load\lyonhrt\mario land\OBJ\9EG7Td47N6Dp7Td6nl7Td9EG.bmp':1:0:0]
+[9Gq6kr6kr6kr6kr6kr6kr9Gq:'Load\lyonhrt\mario land\BG\9Gq6kr6kr6kr6kr6kr6kr9Gq.bmp':10:0:0]
+
+#rock
+[9Gq6tD7JX7JX7JX1Ir1Ir9Gq:'Load\lyonhrt\mario land\BG\9Gq6tD7JX7JX7JX1Ir1Ir9Gq.bmp':10:0:0]
+
+#hitable block
+[9Gq1JD1Jv1J71J71Jz1Ir9Gq:'Load\lyonhrt\mario land\BG\9Gq1JD1Jv1J71J71Jz1Ir9Gq.bmp':10:0:0]
+
+#coin
+[dPs9yw0FC2FK2FK1FS9ywdPs:'Load\lyonhrt\mario land\BG\dPs9yw0FC2FK2FK1FS9ywdPs.bmp':10:0:0]
+
+#mushroom
+[dxE9Em1Ll1Ll1KHaomaomdxE:'Load\lyonhrt\mario land\OBJ\dxE9Em1Ll1Ll1KHaomaomdxE.bmp':1:0:0]
+
+#goomba
+[dxE9EG3+f3+f1KHdxk9ESd9y:'Load\lyonhrt\mario land\OBJ\dxE9EG3+f3+f1KHdxk9ESd9y.bmp':1:8900:0]
+[ehkehkehkdxE9EG3+fdxk2un:'Load\lyonhrt\mario land\OBJ\ehkehkehkdxE9EG3+fdxk2un.bmp':1:0:0]
+
+#cloud
+[ejAejAevDezEfjQcj4cj4aiA:'Load\lyonhrt\mario land\BG\ejAejAevDezEfjQcj4cj4aiA.bmp':10:9410:0]
+[ejAejA6hAaiAc30fX+enBebA:'Load\lyonhrt\mario land\BG\ejAejA6hAaiAc30fX+enBebA.bmp':10:9420:0]
+[ejAejAejAejAejAejA6hAaiA:'Load\lyonhrt\mario land\BG\ejAejAejAejAejAejA6hAaiA.bmp':10:9430:0]
+[enBerCe3weLIefwevCenBejA:'Load\lyonhrt\mario land\BG\enBerCe3weLIefwevCenBejA.bmp':10:9440:0]
+[6hAejA2nA1fA1LA1KA1I7dHq:'Load\lyonhrt\mario land\BG\6hAejA2nA1fA1LA1KA1I7dHq.bmp':10:9450:0]
+[fvA7TA2nA0vA1LA1JA9KBdHq:'Load\lyonhrt\mario land\BG\fvA7TA2nA0vA1LA1JA9KBdHq.bmp':10:9460:0]
+[aiA4j40j42iA2iA6hAejAejA:'Load\lyonhrt\mario land\BG\aiA4j40j42iA2iA6hAejAejA.bmp':10:9470:0]
+
+#fonts
+[ejAdzo8a28a28a28a2dzoejA:'Load\lyonhrt\mario land\Font\ejAdzo8a28a28a28a2dzoejA.bmp':10:0:0]
+[ejAfPYdPsfPYfPYfPYdzoejA:'Load\lyonhrt\mario land\Font\ejAfPYdPsfPYfPYfPYdzoejA.bmp':10:0:0]
+[ejAdzoaGGeHGdzo9ik9GqejA:'Load\lyonhrt\mario land\Font\ejAdzoaGGeHGdzo9ik9GqejA.bmp':10:0:0]
+[ejA9yoeHGdzoeHGeHG9yoejA:'Load\lyonhrt\mario land\Font\ejA9yoeHGdzoeHGeHG9yoejA.bmp':10:0:0]
+[ejAdzo8y8ayEaGG9GqezEejA:'Load\lyonhrt\mario land\Font\ejAdzo8y8ayEaGG9GqezEejA.bmp':10:0:0]
+[ejA9yo8i49yoeHGaGGdzoejA:'Load\lyonhrt\mario land\Font\ejA9yo8i49yoeHGaGGdzoejA.bmp':10:0:0]
+[ejAdzo8i49yo8a28a2dzoejA:'Load\lyonhrt\mario land\Font\ejAdzo8i49yo8a28a2dzoejA.bmp':10:0:0]
+[ejA9GqebyezEfPYdPsdPsejA:'Load\lyonhrt\mario land\Font\ejA9GqebyezEfPYdPsdPsejA.bmp':10:0:0]
+[ejAdzoaGGdzoaGGaGGdzoejA:'Load\lyonhrt\mario land\Font\ejAdzoaGGdzoaGGaGGdzoejA.bmp':10:0:0]
+[ejAdzoaGGaGGdHqeHGdzoejA:'Load\lyonhrt\mario land\Font\ejAdzoaGGaGGdHqeHGdzoejA.bmp':10:0:0]
+[ejAdzoaGGaGG9GqaGGaGGejA:'Load\lyonhrt\mario land\Font\ejAdzoaGGaGG9GqaGGaGGejA.bmp':10:0:0]
+[ejA9yo8a29yo8a28a29yoejA:'Load\lyonhrt\mario land\Font\ejA9yo8a29yo8a28a29yoejA.bmp':10:0:0]
+[ejAdzo8a28i48i48a2dzoejA:'Load\lyonhrt\mario land\Font\ejAdzo8a28i48i48a2dzoejA.bmp':10:0:0]
+[ejA9yoaGGaGGaGGaGG9yoejA:'Load\lyonhrt\mario land\Font\ejA9yoaGGaGGaGGaGG9yoejA.bmp':10:0:0]
+[ejA9Gq8i49yo8i48i49GqejA:'Load\lyonhrt\mario land\Font\ejA9Gq8i49yo8i48i49GqejA.bmp':10:0:0]
+[ejA9Gq8i48i49yo8i48i4ejA:'Load\lyonhrt\mario land\Font\ejA9Gq8i48i49yo8i48i4ejA.bmp':10:0:0]
+[ejAdzo8a28i48Ga8a2dHqejA:'Load\lyonhrt\mario land\Font\ejAdzo8a28i48Ga8a2dHqejA.bmp':10:0:0]
+[ejAaayaay9GqaayaayaayejA:'Load\lyonhrt\mario land\Font\ejAaayaay9GqaayaayaayejA.bmp':10:0:0]
+[ejAdzofPYfPYfPYfPYdzoejA:'Load\lyonhrt\mario land\Font\ejAdzofPYfPYfPYfPYdzoejA.bmp':10:0:0]
+[ejA8a28y89Os9Os8y88a2ejA:'Load\lyonhrt\mario land\Font\ejA8a28y89Os9Os8y88a2ejA.bmp':10:0:0]
+[ejA8i48i48i48i48i49GqejA:'Load\lyonhrt\mario land\Font\ejA8i48i48i48i48i49GqejA.bmp':10:0:0]
+[ejAaay8Ga9GqbaOaayaayejA:'Load\lyonhrt\mario land\Font\ejAaay8Ga9GqbaOaayaayejA.bmp':10:0:0]
+[ejAaay8a29aibGWaGGaayejA:'Load\lyonhrt\mario land\Font\ejAaay8a29aibGWaGGaayejA.bmp':10:0:0]
+[ejAaay8a29aibGWaGGaayejA:'Load\lyonhrt\mario land\Font\ejAaay8a29aibGWaGGaayejA.bmp':10:0:0]
+[ejA9yo8a28a29yo8i48i4ejA:'Load\lyonhrt\mario land\Font\ejA9yo8a28a29yo8i48i4ejA.bmp':10:0:0]
+[ejAdzo8q68q68We820dXuejA:'Load\lyonhrt\mario land\Font\ejAdzo8q68q68We820dXuejA.bmp':10:0:0]
+[ejA9yo8a28a29yo8Oc8a2ejA:'Load\lyonhrt\mario land\Font\ejA9yo8a28a29yo8Oc8a2ejA.bmp':10:0:0]
+[ejAdzo8i4dzoeHGaGGdzoejA:'Load\lyonhrt\mario land\Font\ejAdzo8i4dzoeHGaGGdzoejA.bmp':10:0:0]
+[ejA9GqfPYfPYfPYfPYfPYejA:'Load\lyonhrt\mario land\Font\ejA9GqfPYfPYfPYfPYfPYejA.bmp':10:0:0]
+[ejAaayaayaayaayaGGdzoejA:'Load\lyonhrt\mario land\Font\ejAaayaayaayaayaGGdzoejA.bmp':10:0:0]
+[ejAaayaayaayaaycz8fPYejA:'Load\lyonhrt\mario land\Font\ejAaayaayaayaaycz8fPYejA.bmp':10:0:0]
+[ejAaayaaybaO9Gq8GaaayejA:'Load\lyonhrt\mario land\Font\ejAaayaaybaO9Gq8GaaayejA.bmp':10:0:0]
+[ejA8a28a2dzofPYfPYfPYejA:'Load\lyonhrt\mario land\Font\ejA8a28a2dzofPYfPYfPYejA.bmp':10:0:0]
+[ejAejAejAejAejAdjkdjkejA:'Load\lyonhrt\mario land\Font\ejAejAejAejAejAdjkdjkejA.bmp':10:0:0]
+[ejAejAdjkdjkejAdjkdjkejA:'Load\lyonhrt\mario land\Font\ejAejAdjkdjkejAdjkdjkejA.bmp':10:0:0]
+[ejAejAejAejAdjkdjkfjQcj4:'Load\lyonhrt\mario land\Font\ejAejAejAejAdjkdjkfjQcj4.bmp':10:0:0]
+[ejA9GqeHGfzUdPs9ik9GqejA:'Load\lyonhrt\mario land\Font\ejA9GqeHGfzUdPs9ik9GqejA.bmp':10:0:0]
+[ejAfzUfzUfzUfzUejAfzUejA:'Load\lyonhrt\mario land\Font\ejAfzUfzUfzUfzUejAfzUejA.bmp':10:0:0]
+[ejAejAejAdzodzoejAejAejA:'Load\lyonhrt\mario land\Font\ejAejAejAdzodzoejAejAejA.bmp':10:0:0]
+[ejAejAa2wcPcfjQcPca2wejA:'Load\lyonhrt\mario land\Font\ejAejAa2wcPcfjQcPca2wejA.bmp':10:0:0]
+[fzUcr6bCVbmRbCVcr6fzUejA:'Load\lyonhrt\mario land\Font\fzUcr6bCVbmRbCVcr6fzUejA.bmp':10:93E0:0]
+
+#ground
+[1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load\lyonhrt\mario land\BG\1IrejA1Ir1Ir1Ir1LI1KA1LR.bmp':10:9600:0]
+
