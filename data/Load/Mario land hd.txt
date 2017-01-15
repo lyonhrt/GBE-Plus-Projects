@@ -1,4 +1,4 @@
-#README set CGFX to 6x to use this pack, still wip
+#README set CGFX to 6x to use, still early wip
 
 ['Load\lyonhrt\marioland/BG/pipe1.bmp':pipe1:0]
 [1Ir1JA1JA1JA1JA1Ir9KA9KA:pipe1_0:10:0x9700:0]
@@ -25,7 +25,7 @@
 #hitable block
 [9Gq1JD1Jv1J71J71Jz1Ir9Gq:'Load\lyonhrt\marioland\BG\9Gq1JD1Jv1J71J71Jz1Ir9Gq.bmp':10:0:0]
 [9EG1Ln1LL1LT1LT1Lj1KH9EG:'Load\lyonhrt\marioland\OBJ\9EG1Ln1LL1LT1LT1Lj1KH9EG.bmp':1:8820:0]
-
+[ehkehkfNcdxM9U2dxoeNcehk:'Load\lyonhrt\marioland\OBJ\ehkehkfNcdxM9U2dxoeNcehk.bmp':1:8620:0]
 #coin
 [dPs9yw0FC2FK2FK1FS9ywdPs:'Load\lyonhrt\marioland\BG\dPs9yw0FC2FK2FK1FS9ywdPs.bmp':10:0:0]
 
@@ -92,7 +92,7 @@
 [1IrejA1Ir1Ir1Ir1LI1KA1LR:'Load\lyonhrt\marioland\BG\1IrejA1Ir1Ir1Ir1LI1KA1LR.bmp':10:9600:0]
 [1LA1LA1Iregr1Iregr1Ir1Ir:'Load\lyonhrt\marioland\BG\1LA1LA1Iregr1Iregr1Ir1Ir.bmp':10:9610:0]
 [1LA1LA1LA1LA1LA1LA1LA1LA:'Load\lyonhrt\marioland\BG\1LA1LA1LA1LA1LA1LA1LA1LA.bmp':10:8E80:0]
-
+[enBenBenBenBenBenBenBenB:'Load\lyonhrt\marioland\BG\groundl.bmp':10:9520:0]
 #tree
 [fzUcr6aKHa+LfnRfnRenBenB:'Load\lyonhrt\marioland\BG\fzUcr6aKHa+LfnRfnRenBenB.bmp':10:0:0]
 [9ik6NI20wc30fjQfjQejAejA:'Load\lyonhrt\marioland\BG\9ik6NI20wc30fjQfjQejAejA.bmp':10:0:0]
@@ -101,3 +101,78 @@
 #sky
 [1LA1LA1LA1LA1LA1LA1LA1LA:'Load\lyonhrt\marioland\BG\sky.bmp':10:9530:0]
 [1LAejA1LAejA1LAejA1LAejA:'Load\lyonhrt\marioland\BG\1LAejA1LAejA1LAejA1LAejA.bmp':10:9400:0]
+
+#mario fireball
+[ehkdxE88ObEabEa9EGdxEehk:'Load\lyonhrt\marioland\OBJ\ehkdxE88ObEabEa9EGdxEehk.bmp':1:8600:0]
+#mario sprite
+[ehkehkehkehketnedjeJqfJf:'Load\lyonhrt\marioland\OBJ\ehkehkehkehketnedjeJqfJf.bmp':1:0:0]
+[ehkehkehkehk6jk1iA0gk1hk:'Load\lyonhrt\marioland\OBJ\ehkehkehkehk6jk1iA0gk1hk.bmp':1:0:0]
+[1gQ0hk6ik5iAdPAfOQ8gQ9gA:'Load\lyonhrt\marioland\OBJ\1gQ0hk6ik5iAdPAfOQ8gQ9gA.bmp':1:0:0]
+[fJcedkeBrfBbfxhfNje9ieFq:'Load\lyonhrt\marioland\OBJ\fJcedkeBrfBbfxhfNje9ieFq.bmp':1:0:0]
+[ehkehkehk2ik1OI1hQ1Pk1NA:'Load\lyonhrt\marioland\OBJ\ehkehkehk2ik1OI1hQ1Pk1NA.bmp':1:0:0]
+[ehkehkehkelletnedjeJpeJo:'Load\lyonhrt\marioland\OBJ\ehkehkehkelletnedjeJpeJo.bmp':1:0:0]
+[etkeJrdJrddjehrfhbfN8eFq:'Load\lyonhrt\marioland\OBJ\etkeJrdJrddjehrfhbfN8eFq.bmp':1:0:0]
+[1hkaik9yQdwAeOsfOIfMIehk:'Load\lyonhrt\marioland\OBJ\1hkaik9yQdwAeOsfOIfMIehk.bmp':1:0:0]
+[fJcedkeJrfJrdhrfhbdlFclR:'Load\lyonhrt\marioland\OBJ\fJcedkeJrfJrdhrfhbdlFclR.bmp':1:0:0]
+[1gQ0hkbOk1OkeiQeik6jk2ik:'Load\lyonhrt\marioland\OBJ\1gQ0hkbOk1OkeiQeik6jk2ik.bmp':1:0:0]
+[edkeFrfFbfFce1fehredjedj:'Load\lyonhrt\marioland\OBJ\edkeFrfFbfFce1fehredjedj.bmp':1:0:0]
+[0hk6jk2ikejQeiQ2ik0iQ6jk:'Load\lyonhrt\marioland\OBJ\0hk6jk2ikejQeiQ2ik0iQ6jk.bmp':1:0:0]
+[ehkehkehketnedjeJqfJffJc:'Load\lyonhrt\marioland\OBJ\ehkehkehketnedjeJqfJffJc.bmp':1:0:0]
+[ehkehkehk6jk1iA0gk1hk1gQ:'Load\lyonhrt\marioland\OBJ\ehkehkehk6jk1iA0gk1hk1gQ.bmp':1:0:0]
+[fJcedkfBb9xH8hqbhbdNHchO:'Load\lyonhrt\marioland\OBJ\fJcedkfBb9xH8hqbhbdNHchO.bmp':1:0:0]
+[1MI1h44iQ22Mey8eyEeikehk:'Load\lyonhrt\marioland\OBJ\1MI1h44iQ22Mey8eyEeikehk.bmp':1:0:0]
+[ehkehkehkeFk6Hk1yE0wo1xo:'Load\lyonhrt\marioland\OBJ\ehkehkehkeFk6Hk1yE0wo1xo.bmp':1:0:0]
+[eiQ2hA6gA0iA2iQ4OY9OI9gA:'Load\lyonhrt\marioland\OBJ\eiQ2hA6gA0iA2iQ4OY9OI9gA.bmp':1:0:0]
+[ehkehkehk6jk0iQ1iA1PQ1NQ:'Load\lyonhrt\marioland\OBJ\ehkehkehk6jk0iQ1iA1PQ1NQ.bmp':1:0:0]
+[ehkehkehketnfJbeJgfJmeJo:'Load\lyonhrt\marioland\OBJ\ehkehkehketnfJbeJgfJmeJo.bmp':1:0:0]
+[fJcfJbfJbeFrelnelnehkehk:'Load\lyonhrt\marioland\OBJ\fJcfJbfJbeFrelnelnehkehk.bmp':1:0:0]
+[fZbdZHdNLdNjfNjehafx8dxE:'Load\lyonhrt\marioland\OBJ\fZbdZHdNLdNjfNjehafx8dxE.bmp':1:0:0]
+[4iQ5iAdPIdOkdikeiA9gA9MI:'Load\lyonhrt\marioland\OBJ\4iQ5iAdPIdOkdikeiA9gA9MI.bmp':1:0:0]
+[2ik1iA0jk1Nk1Mk1iA0hk6ik:'Load\lyonhrt\marioland\OBJ\2ik1iA0jk1Nk1Mk1iA0hk6ik.bmp':1:0:0]
+[edjeJreJofJ2dJAdJAeJseZr:'Load\lyonhrt\marioland\OBJ\edjeJreJofJ2dJAdJAeJseZr.bmp':1:0:0]
+[eJrfJbdNjdhjfNbfNbfNcexo:'Load\lyonhrt\marioland\OBJ\eJrfJbdNjdhjfNbfNbfNcexo.bmp':1:0:0]
+[ehketnedjedieJvfJcfJcedg:'Load\lyonhrt\marioland\OBJ\ehketnedjedieJvfJcfJcedg.bmp':1:0:0]
+[ehk0iQ1OI1gk1xk1xQ1MI1hk:'Load\lyonhrt\marioland\OBJ\ehk0iQ1OI1gk1xk1xQ1MI1hk.bmp':1:0:0]
+[byQbyQeMYdOIdOIdPIehkehk:'Load\lyonhrt\marioland\OBJ\byQbyQeMYdOIdOIdPIehkehk.bmp':1:0:0]
+[eZrftbetbdhHdhHdhEchQehk:'Load\lyonhrt\marioland\OBJ\eZrftbetbdhHdhHdhEchQehk.bmp':1:0:0]
+[eik3Ok1yQ1yQ6iQeiQ9gA9MI:'Load\lyonhrt\marioland\OBJ\eik3Ok1yQ1yQ6iQeiQ9gA9MI.bmp':1:0:0]
+[2jk0jk8jkeiQ6iQ2ikagkehk:'Load\lyonhrt\marioland\OBJ\2jk0jk8jkeiQ6iQ2ikagkehk.bmp':1:0:0]
+[fdbedbehbehrelre5jeFqedj:'Load\lyonhrt\marioland\OBJ\fdbedbehbehrelre5jeFqedj.bmp':1:0:0]
+[edjeJreJofJ2dJAdJAeJsfJb:'Load\lyonhrt\marioland\OBJ\edjeJreJofJ2dJAdJAeJsfJb.bmp':1:0:0]
+[2ik1iA0jk1Nk1Mk1iA0hkaik:'Load\lyonhrt\marioland\OBJ\2ik1iA0jk1Nk1Mk1iA0hkaik.bmp':1:0:0]
+[5iA4iAeoCeaGeaG6aGehkehk:'Load\lyonhrt\marioland\OBJ\5iA4iAeoCeaGeaG6aGehkehk.bmp':1:0:0]
+[dFHdFzdxTfxj88H8sH8gGagk:'Load\lyonhrt\marioland\OBJ\dFHdFzdxTfxj88H8sH8gGagk.bmp':1:0:0]
+[ehkedjeJreJofJ2dJAdJAeJo:'Load\lyonhrt\marioland\OBJ\ehkedjeJreJofJ2dJAdJAeJo.bmp':1:0:0]
+[eFk3Gs1GA1Ha1Fi1wg1yE1Nc:'Load\lyonhrt\marioland\OBJ\eFk3Gs1GA1Ha1Fi1wg1yE1Nc.bmp':1:0:0]
+[fJ2fJ4fJcddIdZDdNPfxbdxE:'Load\lyonhrt\marioland\OBJ\fJ2fJ4fJcddIdZDdNPfxbdxE.bmp':1:0:0]
+[ehkehkehkehkehkedjeJreJo:'Load\lyonhrt\marioland\OBJ\ehkehkehkehkehkedjeJreJo.bmp':1:0:0]
+[ehkehkehkehkehk2ik1iA0jk:'Load\lyonhrt\marioland\OBJ\ehkehkehkehkehk2ik1iA0jk.bmp':1:0:0]
+[1Nk1Mk1iA1Nc5PYfOQdOIdxE:'Load\lyonhrt\marioland\OBJ\1Nk1Mk1iA1Nc5PYfOQdOIdxE.bmp':1:0:0]
+[eJseBqclXdNFdNHehjehkehk:'Load\lyonhrt\marioland\OBJ\eJseBqclXdNFdNHehjehkehk.bmp':1:0:0]
+[ehkehkehketnfdjdJudJ8fJf:'Load\lyonhrt\marioland\OBJ\ehkehkehketnfdjdJudJ8fJf.bmp':1:0:0]
+[2hA8iQ9OI1Os1rmaHGdwEdNI:'Load\lyonhrt\marioland\OBJ\2hA8iQ9OI1Os1rmaHGdwEdNI.bmp':1:0:0]
+[fJbfFbeNrehjehnehkehkehk:'Load\lyonhrt\marioland\OBJ\fJbfFbeNrehjehnehkehkehk.bmp':1:0:0]
+[edjfJbeJmfJkdJidJoeJlfBb:'Load\lyonhrt\marioland\OBJ\edjfJbeJmfJkdJidJoeJlfBb.bmp':1:0:0]
+[6jk1OA1wQ2zA2hQ2iA0hI0hc:'Load\lyonhrt\marioland\OBJ\6jk1OA1wQ2zA2hQ2iA0hI0hc.bmp':1:0:0]
+
+#pyramid
+[enBevDe7xeTJfnRcn5amB6lB:'Load\lyonhrt\marioland\BG\enBevDe7xeTJfnRcn5amB6lB.bmp':10:0:0]
+[enBerCe3wePIfjQcj4aiA6hA:'Load\lyonhrt\marioland\BG\enBerCe3wePIfjQcj4aiA6hA.bmp':10:9360:0]
+[6hAaiAcj4fjQePIe3werCenB:'Load\lyonhrt\marioland\BG\6hAaiAcj4fjQePIe3werCenB.bmp':10:95E0:0]
+
+#coin spin
+[dxE88OaEqaEqaEqaEq88OdxE:'Load\lyonhrt\marioland\OBJ\dxE88OaEqaEqaEqaEq88OdxE.bmp':1:0:0]
+[fNcdxgdxgdxgdxgdxgdxgfNc:'Load\lyonhrt\marioland\OBJ\fNcdxgdxgdxgdxgdxgdxgfNc.bmp':1:0:0]
+[fNcfNcfNcfNcfNcfNcfNcfNc:'Load\lyonhrt\marioland\OBJ\fNcfNcfNcfNcfNcfNcfNcfNc.bmp':1:8F80:0]
+
+#flower
+[ehGfw9eglehGehseg-ehGeh8:'Load\lyonhrt\marioland\OBJ\ehGfw9eglehGehseg-ehGeh8.bmp':1:0:0]
+[dFG8sT9IHdFGeNs8Y-dFGfx8:'Load\lyonhrt\marioland\OBJ\dFG8sT9IHdFGeNs8Y-dFGfx8.bmp':1:0:0]
+
+
+[ehkfh4fh41GG9wEdNI9wE2ai:'Load\lyonhrt\marioland\OBJ\ehkfh4fh41GG9wEdNI9wE2ai.bmp':1:0:0]
+[ejA8Ga5JT5JD1JD9Gydz8fPY:'Load\lyonhrt\marioland\BG\ejA8Ga5JT5JD1JD9Gydz8fPY.bmp':10:0:0]
+[9EG1Ln1Ln1Lj9EGehkehkehk:'Load\lyonhrt\marioland\OBJ\9EG1Ln1Ln1Lj9EGehkehkehk.bmp':1:8EF0:0]
+#numbers
+[ehkfp6d5xf51f51f51fp6ehk:'Load\lyonhrt\marioland\OBJ\ehkfp6d5xf51f51f51fp6ehk.bmp':1:0:0]
+[ehkchQbg4bg4bg4bg4chQehk:'Load\lyonhrt\marioland\OBJ\ehkchQbg4bg4bg4bg4chQehk.bmp':1:0:0]
