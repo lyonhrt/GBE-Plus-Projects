@@ -176,3 +176,9 @@
 #numbers
 [ehkfp6d5xf51f51f51fp6ehk:'Load\lyonhrt\marioland\OBJ\ehkfp6d5xf51f51f51fp6ehk.bmp':1:0:0]
 [ehkchQbg4bg4bg4bg4chQehk:'Load\lyonhrt\marioland\OBJ\ehkchQbg4bg4bg4bg4chQehk.bmp':1:0:0]
+[ehkcpSb41b41b41b41cpSehk:'Load\lyonhrt\marioland\OBJ\ehkcpSb41b41b41b41cpSehk.bmp':1:0:0]
+[ehk4rS47N47N16xc5NcpSehk:'Load\lyonhrt\marioland\OBJ\ehk4rS47N47N16xc5NcpSehk.bmp':1:0:0]
+[ehk8oS77184N57x7718oSehk:'Load\lyonhrt\marioland\OBJ\ehk8oS77184N57x7718oSehk.bmp':1:0:0]
+[ehk5HG5TJ5TJ5HG5PIdNIehk:'Load\lyonhrt\marioland\OBJ\ehk5HG5TJ5TJ5HG5PIdNIehk.bmp':1:0:0]
+[ehk8EW0GW8EW8EW8IX8cPehk:'Load\lyonhrt\marioland\OBJ\ehk8EW0GW8EW8EW8IX8cPehk.bmp':1:0:0]
+[ehkcpSb41f51c5Na4h9oCehk:'Load\lyonhrt\marioland\OBJ\ehkcpSb41f51c5Na4h9oCehk.bmp':1:0:0]
