@@ -1,4 +1,4 @@
-#README set CGFX to 6x to use, still early wip for rom super mario land 1.1
+#README 
 
 ['Load\lyonhrt\marioland/BG/pipe1.bmp':pipe1:0]
 [1Ir1JA1JA1JA1JA1Ir9KA9KA:pipe1_0:10:0x9700:0]
@@ -85,7 +85,7 @@
 [ejA9GqeHGfzUdPs9ik9GqejA:'Load\lyonhrt\marioland\Font\ejA9GqeHGfzUdPs9ik9GqejA.bmp':10:0:0]
 [ejAfzUfzUfzUfzUejAfzUejA:'Load\lyonhrt\marioland\Font\ejAfzUfzUfzUfzUejAfzUejA.bmp':10:0:0]
 [ejAejAejAdzodzoejAejAejA:'Load\lyonhrt\marioland\Font\ejAejAejAdzodzoejAejAejA.bmp':10:0:0]
-[ejAejAa2wcPcfjQcPca2wejA:'Load\lyonhrt\marioland\Font\ejAejAa2wcPcfjQcPca2wejA.bmp':10:0:0]
+[ejAejAa2wcPcfjQcPca2wejA:'Load\lyonhrt\marioland\Font\ejAejAa2wcPcfjQcPca2wejA.bmp':10:92B0:0]
 [fzUcr6bCVbmRbCVcr6fzUejA:'Load\lyonhrt\marioland\Font\fzUcr6bCVbmRbCVcr6fzUejA.bmp':10:93E0:0]
 
 #ground
@@ -182,3 +182,48 @@
 [ehk5HG5TJ5TJ5HG5PIdNIehk:'Load\lyonhrt\marioland\OBJ\ehk5HG5TJ5TJ5HG5PIdNIehk.bmp':1:0:0]
 [ehk8EW0GW8EW8EW8IX8cPehk:'Load\lyonhrt\marioland\OBJ\ehk8EW0GW8EW8EW8IX8cPehk.bmp':1:0:0]
 [ehkcpSb41f51c5Na4h9oCehk:'Load\lyonhrt\marioland\OBJ\ehkcpSb41f51c5Na4h9oCehk.bmp':1:0:0]
+
+#world1.2
+[eiqdMz9xD9xD9xD9xDdMzeiq:'Load\lyonhrt\marioland\BG\eiqdMz9xD9xD9xD9xDdMzeiq.bmp':10:9370:0]
+[dLr9Kr1Ir1Ir1cj34Nb6NbmR:'Load\lyonhrt\marioland\BG\dLr9Kr1Ir1Ir1cj34Nb6NbmR.bmp':10:9680:0]
+[1Ir1Ir1Ir1Ir9ejb6Nb6NfnR:'Load\lyonhrt\marioland\BG\1Ir1Ir1Ir1Ir9ejb6Nb6NfnR.bmp':10:9690:0]
+[1wo1Eq1Ir1Ir9ejb6Nb6Nf3M:'Load\lyonhrt\marioland\BG\1wo1Eq1Ir1Ir9ejb6Nb6Nf3M.bmp':10:96A0:0]
+#pyrimid
+[6lBamBcn5fnReTJe7xevDenB:'Load\lyonhrt\marioland\BG\6lBamBcn5fnReTJe7xevDenB.bmp':10:93C0:0]
+
+#world1.3
+[ejAejAa2wcPcfjQcPca2wejA:'Load\lyonhrt\marioland\BG\ejAejAa2wcPcfjQcPca2wejA.bmp':10:92B0:0]
+[1wo1Eq1L31LD1LT1Kz1Ir1Ir:'Load\lyonhrt\marioland\BG\1wo1Eq1L31LD1LT1Kz1Ir1Ir.bmp':10:9660:0]
+[ejAejAejAejQejsejsejcejQ:'Load\lyonhrt\marioland\BG\ejAejAejAejQejsejsejcejQ.bmp':10:95D0:0]
+[eioeiweiMejcejcejcejsejA:'Load\lyonhrt\marioland\BG\eioeiweiMejcejcejcejsejA.bmp':10:9350:0]
+[ejAejQejsejseioei8ei8ejs:'Load\lyonhrt\marioland\BG\ejAejQejsejseioei8ei8ejs.bmp':10:95D0:0]
+[1Ir1Ir1II1JB1JQ1Iw1Ir1Ir:'Load\lyonhrt\marioland\BG\1Ir1Ir1II1JB1JQ1Iw1Ir1Ir.bmp':10:96D0:0]
+[1Ir1Ir1L31LD1LT1Kz1Ir1Ir:'Load\lyonhrt\marioland\BG\stone.bmp':10:94E0:0]
+[dLr9Kr1II1JB1JQ1Iw1Ir1Ir:'Load\lyonhrt\marioland\BG\dLr9Kr1II1JB1JQ1Iw1Ir1Ir.bmp':10:9650:0]
+[1Ir1Ir1L31LD1LT1Kz1Ir1Ir:'Load\lyonhrt\marioland\BG\1Ir1Ir1L31LD1LT1Kz1Ir1Ir.bmp':10:96E0:0]
+
+[ejAauDa6xaKHaSJamB9KrbKX:'Load\lyonhrt\marioland\BG\ejAauDa6xaKHaSJamB9KrbKX.bmp':10:9590:0]
+[aqCaqCaqCauDamBamBamBauD:'Load\lyonhrt\marioland\BG\aqCaqCaqCauDamBamBamBauD.bmp':10:95B0:0]
+[ejA0o6frS7dP75N14hc714d3:'Load\lyonhrt\marioland\BG\ejA0o6frS7dP75N14hc714d3.bmp':10:95A0:0]
+[cj4cj48Kb0QdaayaayaSJ2IH:'Load\lyonhrt\marioland\BG\cj4cj48Kb0QdaayaayaSJ2IH.bmp':10:95C0:0]
+[ejAfPYc30bW+bW+c30fPYejA:'Load\lyonhrt\marioland\BG\ejAfPYc30bW+bW+c30fPYejA.bmp':10:9550:0]
+[ejA1Ir6lBaqCdzoejA4Veb6N:'Load\lyonhrt\marioland\BG\ejA1Ir6lBaqCdzoejA4Veb6N.bmp':10:9560:0]
+[8q67JX8q6ejA9Gq6lB9GqejA:'Load\lyonhrt\marioland\BG\8q67JX8q6ejA9Gq6lB9GqejA.bmp':10:9570:0]
+[18i75N18iejA9yo5pm5dj9yo:'Load\lyonhrt\marioland\BG\18i75N18iejA9yo5pm5dj9yo.bmp':10:9580:0]
+[ejAfjQdPs9yoejAfjQdPs9yo:'Load\lyonhrt\marioland\BG\ejAfjQdPs9yoejAfjQdPs9yo.bmp':10:9380:0]
+
+[1Ir6hA5JA4JI5JY5JA1Ir1Ir:'Load\lyonhrt\marioland\BG\1Ir6hA5JA4JI5JY5JA1Ir1Ir.bmp':10:88E0:0]
+[1IrevD1LD0LL1L-1LD1Ir1Ir:'Load\lyonhrt\marioland\BG\1IrevD1LD0LL1L-1LD1Ir1Ir.bmp':10:88F0:0]
+
+[ejAehBeiCeh1eiqejoejYejA:'Load\lyonhrt\marioland\BG\ejAehBeiCeh1eiqejoejYejA.bmp':10:95D0:0]
+[eiqejoejYejAejAehBeiCeh1:'Load\lyonhrt\marioland\BG\eiqejoejYejAejAehBeiCeh1.bmp':10:95D0:0]
+
+[1tr0pa1pa19a29G6GGdyE1iA:'Load\lyonhrt\marioland\OBJ\1tr0pa1pa19a29G6GGdyE1iA.bmp':1:8D30:0]
+[1rp1vo1Cm9Ik9IkdBSdlHfJb:'Load\lyonhrt\marioland\OBJ\1rp1vo1Cm9Ik9IkdBSdlHfJb.bmp':1:8D20:0]
+[ehk1iA1x819qdWidWi9-j9-j:'Load\lyonhrt\marioland\OBJ\ehk1iA1x819qdWidWi9-j9-j.bmp':1:8C30:0]
+[ehkedjfJ8fJ4dFB9MP1Si1vo:'Load\lyonhrt\marioland\OBJ\ehkedjfJ8fJ4dFB9MP1Si1vo.bmp':1:8C20:0]
+
+[fjQfjQcPccPca2w9yw9yw9yo:'Load\lyonhrt\marioland\BG\fjQfjQcPccPca2w9yw9yw9yo.bmp':10:8ED0:0]
+[ehkehkdFGaMt4HX1GH9EHdFG:'Load\lyonhrt\marioland\OBJ\ehkehkdFGaMt4HX1GH9EHdFG.bmp':1:8F90:0]
+[2undBF2un1KH1KH0KP1KH3+f:'Load\lyonhrt\marioland\OBJ\2undBF2un1KH1KH0KP1KH3+f.bmp':1:8870:0]
+[dxEcgq1KH1LF1KH1KH1LF1KH:'Load\lyonhrt\marioland\OBJ\dxEcgq1KH1LF1KH1KH1LF1KH.bmp':1:8880:0]
