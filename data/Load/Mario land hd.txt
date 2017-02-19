@@ -1,6 +1,6 @@
 #README 
 
-['Load\lyonhrt\marioland/BG/pipe1.bmp':pipe1:0]
+['Load\lyonhrt\marioland\BG\pipe1.bmp':pipe1:0]
 [1Ir1JA1JA1JA1JA1Ir9KA9KA:pipe1_0:10:0x9700:0]
 [1Ir2fr2fr2fr2fr1Ir0bW0bW:pipe1_1:10:0x9710:0]
 [9KA9KA9KA9KAdLr9KA9KA9KA:pipe1_2:10:0x9720:0]
